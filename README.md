@@ -4,7 +4,7 @@
 demonstrating DHCP,DNS, ARP, HTTP/HTTPS, NAT, TCP/UDP, and SSL/TLS, using ping/traceroute and Packet tracer's built-in Simulation Mode for packet analysis. 
 
 # Topology 
-(Diagram coming soon)
+- Visible on the Final Report
 
 # Devices 
 - Router -NAT/Gateway - 192.168.1.1
